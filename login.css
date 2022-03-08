@@ -1,0 +1,50 @@
+body{background-color: white;
+    background-image:url("media/ZLB.png");
+    background-repeat: no-repeat;
+    background-size: 33.3%;
+    background-position: 460px 130px;}
+#login{border-radius: 25px; 
+       background: rgba(255,76,255,0.85);
+       margin-top: 100px;
+       margin-left: 500px;
+       height: 480px;
+       width: 350px;}
+img{border-radius: 25px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 32px;}
+#un{margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 15px;
+    height: 30px;
+    width: 250px;}
+#p{margin-top: 15px;
+	margin-left: 40px;
+    height: 30px;
+    width: 250px;}
+input[type="submit"]{
+	margin-left: 40px;
+	margin-bottom: 7px;
+	width: 125px;}
+input[type="reset"]{
+	margin-left: 3px;
+	width: 125px;}
+#r{margin-left: 138px;
+	margin-top: 7px;
+   width: 125px;}
+#f{margin-left: 20px;
+   width: 100%;
+   font-size: 13px;}
+a:link{
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: white;
+}
+a{
+  text-decoration: none;
+  margin-left:30px;
+}

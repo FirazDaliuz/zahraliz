@@ -1,0 +1,42 @@
+body{background-color: white;
+    background-image:url("../media/ZLB.png");
+    background-repeat: no-repeat;
+    background-size: 33.3%;
+    background-position: 460px 130px;}
+#acccreate{ border-radius: 25px;
+            background-color: rgba(255,255,0,0.85);
+            margin-top: 50px;
+            margin-left: 500px;
+            height: 525px;
+            width: 350px;}
+table {
+    border-collapse: collapse;
+    margin-top:50px;
+    margin-left: 25px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td{
+  text-align: center;
+}
+
+#text{padding-top: 100px;
+	  padding-left: 50px;
+      height: 300px;}
+#l{margin-left: 110px;
+   width: 125px;}
+#connect{ border-radius: 25px;
+          background-color: rgba(255,192,203,0.85);
+          margin-top: 100px;
+          margin-left: 500px;
+          height: 475px;
+          width: 350px;}
+#text2{padding-top: 150px;
+	  padding-left: 30px;
+      height: 300px;}
+#h{margin-top: 50px;
+   margin-left: 70px;
+   width: 125px;}

@@ -1,0 +1,175 @@
+body{background-color: white;
+    background-image:url("media/ZLB.png");
+    background-repeat: no-repeat;
+    background-size: 33%;
+    background-position: 450px 220px;}
+#banner{margin-top: 13px;
+	    margin-left: 15px;
+	    height: 100px;
+        background-color: rgba(255,247,154,0.85);
+        width: 1310px;
+        padding-bottom: 10px;}
+#banneri{
+	width: 800px;
+	height: 80%;
+	margin-left:60px;
+	opacity: 0.45;
+}
+#bannerii{
+	height: 80%;
+	margin-left:50px;
+}
+#nav{
+	display: inline-block;
+	margin-top: -16px;
+	margin-left: -25px;
+}
+li{list-style: none;
+	height: 30px;
+	display: inline;
+	padding-top: 20px;
+	padding-bottom: 6px;
+	width: 218.4px;
+	float: left;
+	background-color: rgba(141,199,63,0.85);
+	text-align: center;}
+a{text-decoration: none;}
+a:link{
+	color: black;
+	font-size: 20px;
+}
+a:visited{
+	color: black;
+	font-size: 20px;
+}
+li:hover{
+	background-color: rgba(237,0,140,0.85);
+}
+#item{	border-radius: 25px;
+		height: 240px;
+	  	width: 100px;
+	  	background-color: rgba(250,235,215,0.85);
+	  	margin-top: 10px;
+	  	margin-right: 10px;
+	  	margin-left: 10px;
+	  	float: left;}
+select{	
+		margin-left:10px;
+}
+input[type="number"]{
+	width: 80px;
+	margin-left:5px;
+}
+input[name="submit"]{
+	margin-left:30px;
+}
+
+input[name="add"],input[name="delete"]{
+	margin-left:7px;
+	margin-right:7px;
+}
+
+input[name="checkout"],input[name="cancel"],input[name="resetcart"],#pdfbutton{
+	margin-left:5%;
+}
+#pdfbutton{
+	font-size: 70%;
+	display: inline-block;
+	width: 17%;
+	padding-left:10px;
+	padding-top: 2px; 
+	background-color: #e1e1e1;
+	border: 1px solid silver;
+}
+img{margin-top: 20px;}  
+#content{
+	margin-left: 15px;
+    height: 395px;
+    width: 1310px;
+    padding-top: 25px;
+	padding-bottom: 25px;
+    background-color: rgba(255,247,154,0.7);
+    overflow-y: auto;
+}
+#cart{
+	border-collapse: collapse;
+	margin-top: 40px;
+	margin-left: 60px;
+}
+
+#tips{
+	border-collapse: collapse;
+	margin-left: 40px;
+}
+
+#cart,#tips,td,th{
+	border: 1px solid black;
+	width: 1200px;
+}
+
+#or:hover{
+	background-color: rgba(192,192,192,0.85);
+}
+
+#or1:hover{
+	background-color: rgba(192,192,192,0.85);
+}
+
+th{
+	background-color: rgba(249,173,129,0.85);
+}
+
+#tipsbutton{
+	width: 100%;
+	font-size: 30px;
+}
+#c1{border-radius: 25px;
+	float: left;
+	margin-left: 50px;
+	margin-right:50px;
+	height: 317px;
+	width: 650px;
+	padding-top: 30px;
+	padding-left: 30px;
+	background-color: rgba(250,235,215,0.85);
+	overflow-y: auto; 
+}
+#aboutcust,#aboutcust tr,#aboutcusttd,#aboutcusttd2,#aboutcust td{
+	border-collapse: collapse;
+	border: none;
+}
+#aboutcust{
+	width: 90%;
+}
+#aboutcusttd{
+	width: 20%;
+}
+#un,#rn,#add,#ph,#em,#p{
+	width: 100%;
+}
+#add{
+	resize: vertical;	
+}
+#aboutcust input[type="submit"],#aboutcust input[type="reset"]{
+	margin-left: 30%;
+	margin-top: 5%;
+}
+#aboutcusttd2{
+	width: 12%;
+}
+#c2{border-radius: 25px;
+	float: left;
+	margin-left: 50px;
+	height: 350px;
+	width: 400px;
+	padding-left: 20px;
+	background-color: rgba(250,235,215,0.85);}
+#footer{
+	margin-left: 15px;
+	height: 30px;
+	width: 1310px;
+	float: left;
+	background-color: rgba(141,199,63,0.85);
+	text-align: center;
+	color: black;
+}

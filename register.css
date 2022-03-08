@@ -1,0 +1,59 @@
+body{background-color: white;
+    background-image:url("media/ZLB.png");
+    background-repeat: no-repeat;
+    background-size: 33.3%;
+    background-position: 460px 130px;}
+#register{	border-radius: 25px;
+			background-color: rgba(0,128,0,0.85);
+       		margin-top: 50px;
+       		margin-left: 500px;
+       		height: 540px;
+       		width: 350px;}
+img{height: 150px;
+    margin-top: 25px;
+    margin-left: 60px;}
+#u{margin-top: 7px;
+	margin-left: 40px;
+	margin-bottom: 7px;
+    height: 30px;
+    width: 250px;}
+#p{margin-top: 7px;
+	margin-left: 40px;
+	margin-bottom: 7px;
+    height: 30px;
+    width: 250px;}
+#n{margin-top: 7px;
+	margin-left: 40px;
+	margin-bottom: 7px;
+    height: 30px;
+    width: 250px;}
+#e{margin-top: 7px;
+	margin-left: 40px;
+	margin-bottom: 7px;
+    height: 30px;
+    width: 250px;}
+#a{margin-top: 7px;
+	margin-left: 40px;
+	margin-bottom: 7px;
+    height: 30px;
+    width: 250px;}
+input[type="submit"]{
+	margin-left: 40px;
+	margin-bottom: 7px;
+	width: 125px;}
+input[type="reset"]{
+	margin-left: 3px;
+	margin-bottom: 7px;
+	width: 125px;}
+a:link{
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: white;
+}
+a{
+  text-decoration: none;
+}

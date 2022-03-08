@@ -1,0 +1,18 @@
+body{background-color: white;
+    background-image:url("media/ZLB.png");
+    background-repeat: no-repeat;
+    background-size: 33.3%;
+    background-position: 460px 130px;}
+#content{border-radius: 25px; 
+       	 background-color: rgba(255,0,0,0.85);
+       	 margin-top: 100px;
+       	 margin-left: 500px;
+       	 height: 375px;
+       	 width: 350px;
+       	 padding-top:100px;}
+#input{margin-top:100px;
+       margin-bottom:20px;}
+#input2{margin-top:100px;
+        margin-bottom:10px;}
+#form1{margin-bottom:160px;}
+#form2{margin-bottom:160px;}
